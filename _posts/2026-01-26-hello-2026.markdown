@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "Hello 2026"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2026-1-26 14:42:00
+author:     "Weiee"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+# 这是我的第一篇Blog
+
+虽然我是抱着强烈的Hire me的心情创建了我的第一个博客。
+
+但是我此前也有过把自己自学计算机的笔记分享出来的想法。
+
+例如下次还有人问我怎么安装python呀。
+
+我就可以一个链接甩他脸上了。
+
+—— Weiee 后记于 2026.1.26
