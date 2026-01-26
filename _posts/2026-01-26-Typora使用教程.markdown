@@ -1,0 +1,86 @@
+---
+layout:     post
+title:      "Typora使用教程"
+subtitle:   "这是一个简单的Typora的使用教程"
+date:       2026-1-26 14:42:00
+author:     "Weiee"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+# Typora使用教程
+
+## 一级标题
+
+### 二级标题
+
+### 三级标题
+
+分隔线
+
+---
+
+按三个减号“-”或者三个“*”
+
+## 文字显示
+
+代码块：esc下面的按键，打三个反引号
+
+```java
+public void
+```
+
+墙体
+
+>
+>
+>1
+>
+>2
+
+Shift +Tab可以退出墙体
+
+### 列表
+
+一、
+
+* 
+
+* 
+
+*加空格 可以生成列表
+
+### 有序列表
+
+数字+.+空格
+
+1. 
+
+### 引用
+
+< 
+
+
+
+### 加粗
+
+**eee**
+
+eee
+
+可以用crtl+b 也可以用'"**"'包住
+
+### 表格
+
+option + command + T
+
+
+
+
+
+
+
+
+
