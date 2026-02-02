@@ -19,6 +19,11 @@ github_username: weiee
 twitter_username: weiee
 #facebook_username:  weiee
 #linkedin_username:  firstname-lastname-idxxxx
+# Full URLs (prefer full URL fields so templates can link directly)
+github_url: "https://github.com/weiee666"
+linkedin_url: "https://www.linkedin.com/in/bo-wei-62708b389"
+xiaohongshu_url: "https://www.xiaohongshu.com/user/profile/60fbc33200000000010007e5"
+about_url: "https://weiee666.github.io/weiee.github.io/"
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -74,8 +79,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Hire Me!"
+sidebar-avatar: /img/柴犬.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,12 +96,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    
   ]
